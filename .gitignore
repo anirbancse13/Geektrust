@@ -1,9 +1,0 @@
-
-*.class
-Train/target/geektrust-1.0.jar
-Train/target/geektrust.jar
-Train/target/maven-archiver/pom.properties
-Train/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
-Train/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-Train/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
-Train/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
